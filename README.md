@@ -57,6 +57,6 @@
     "strict": true,               /* Enable all strict type-checking options. */
     "skipLibCheck": true          /* Skip type checking all .d.ts files. */
   },
-  "include": ["src/"]
+  "include": ["src/"]             /* Specify a folder where your typescript files are located and will be compiled from */
 }
 ```
