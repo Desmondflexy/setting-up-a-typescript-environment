@@ -27,6 +27,7 @@
     npx tsc --init
     ```
 
+4. **Edit Package.json file:** Open `package.json` file and add the key-value pair `{..., "type": "module", ...}`
 
 4. **Write TypeScript code:** With your environment set up, you can start writing TypeScript code! You can create a new TypeScript file with the `.ts` extension and start writing TypeScript syntax. For example:
     ```javascript
